@@ -1,0 +1,91 @@
+body{
+    margin: %;
+    background-image: url("https://img.freepik.com/fotos-premium/paisaje-verde-agua-naturaleza-lago-ecologico-subacuatico-buceo-salvaje_548821-3667.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulo{
+    color: #ff74a0;
+    background-color:#5bbaea;
+    text-align: center;
+    border-radius:456%;
+    margin-top: 0.5%;
+    font-family: 'Itim', cursive;
+    font-size: 315%;
+    margin-right:-0.67%;
+}
+
+.logomex{
+    width: 270px;
+    height:1%;
+    align-items: righ;
+    display: flex;
+    margin-left:40%;
+    margin-right:2% ;
+    margin-top:-2.5%;
+    font-family: 'Space Mono', monospace;
+    font-size: 80%;
+}
+
+p1{
+    font-family: 'Baskervville', serif;
+    background-color:#306cac;
+    color: rgb(21, 254, 64);
+    margin-left:59%;
+    border-radius:34%;
+}
+p2{
+    font-family: 'Baskervville', serif;
+    color: rgb(255, 155, 228);
+    font-size: 115%;
+}
+p4{
+    font-family: 'Baskervville', serif;
+    color: rgb(254, 173, 21);
+    font-size: 105%;
+}
+car{
+    color: rgb(84, 3, 3);
+}
+
+a{
+    color: rgb(142, 0, 106);
+    font-family: 'Itim', cursive;
+    background-color:#5f6fff;
+    text-decoration: none;
+    text-align: center;
+    font-size: 125%;
+    width: 24% ;
+    margin-right:0% ;
+    margin-left:0%;
+    
+}
+
+
+
+#titulo{
+    color: rgb(255, 34, 34);
+}
+
+
+#Subtitulos{
+    color: burlywood;
+    background-color:#5f6fff;
+}
+
+#Mitologia{
+    color: rgb(251, 251, 251);
+    background-color:#7d82b6;
+}
+
+
+#Anatomia{
+    color: rgb(251, 251, 251);
+    background-color:#7d82b6;
+}
+
+#Conservacion{
+    color: rgb(251, 251, 251);
+    background-color:#7d82b6;
+}
